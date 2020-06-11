@@ -3,7 +3,8 @@
 
 ## Table of Contents
  * [Research](#research)
- 
+ * [Analyze](#analyze)
+
 
 ## Research
  * [Answer The Public](https://answerthepublic.com/)
